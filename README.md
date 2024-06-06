@@ -3,9 +3,9 @@
 <br>
 <i>Birth 2003</i>
 
-As a Senior Cross-platform, developer, I have proven and solid
+As a Senior Cross-platform developer, I have proven and solid
 experience in mobile app development. Over 6 years of
-deep mobile app development experience.
+deep cross-platform development experience.
 In addition to the experience of implementing projects such as webrtc, Online-taxi App, hiring jobs App, etc.
 Whether you just need capable manpower, need to hire
 someone for a one-off or long term task, or want a brand
@@ -18,10 +18,10 @@ github: [github.com/DarkMode49](https://github.com/DarkMode49)
 
 
 ## SKILLS
-- Web
+- Fullstack Web (backend and frontend)
 - DevOps
-- Android(Kotlin,Java)
-- iOS(Swift)
+- Android (Kotlin,Java)
+- iOS (Swift)
 - WebRTC, video & sound streaming
 - Socket.io & webSocket
 - CallKit, Silent pushKit, Background Fetch iOS
